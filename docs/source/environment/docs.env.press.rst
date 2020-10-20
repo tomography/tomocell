@@ -11,8 +11,6 @@ Pressure
 | Vindum VP-12K dual-piston Pump |   120 °C     | up to 12,000 psi  | |p00003| | Yes                                        | `Mark Rivers`_          |  `web link p0003`_        |  1   |
 +--------------------------------+--------------+-------------------+----------+--------------------------------------------+-------------------------+---------------------------+------+
 
-1000D Syringe Pump
-
 .. _box link p0001: https://anl.box.com/s/3xw458cbs0t1k80l2jzxjon148uftqqq
 .. _box link p0002: https://anl.box.com/s/3xw458cbs0t1k80l2jzxjon148uftqqq
 .. _web link p0003: https://vindum.com/products/vp-series-high-pressure-metering-pumps
