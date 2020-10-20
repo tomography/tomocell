@@ -4,7 +4,7 @@ TomoCell
 
 
 .. image:: source/img/tomocell-logo.png
-   :width: 640px
+   :width: 320px
    :alt: tomocell
 
 TomoCell contains information on environment control cell optimized for X-ray tomographic instrumentation.
